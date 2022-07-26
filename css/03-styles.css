@@ -1,0 +1,9 @@
+/* id:-> usually used for uniques= item */
+#first-para {
+  color: blue;
+}
+
+/* class:-> usually used when for than one item is using this styles */
+.first-para {
+  color: red;
+}
